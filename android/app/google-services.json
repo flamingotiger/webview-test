@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979816610748",
+    "project_id": "runnerrunner-774a8",
+    "storage_bucket": "runnerrunner-774a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979816610748:android:d3bee2aa2eb36630af89b9",
+        "android_client_info": {
+          "package_name": "com.runnersoft.runnerrunner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWTg9980UsYlRCtoG22N3QcCGWIznVgQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "holdemcafe_app",
+  "displayName": "러너러너",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1370775473128669~1129185541",
+    "ios_app_id": "ca-app-pub-1370775473128669~9163588237"
+  }
+}

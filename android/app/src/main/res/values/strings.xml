@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">러너러너</string>
+    <string name="facebook_app_id">895695044777286</string>
+    <string name="fb_login_protocol_scheme">fb895695044777286</string>
+    <string name="facebook_client_token">f4a824e1b79799e72696c6391e4b4d89</string>
+    <string name="kakao_app_key">03e3057e1aae8d12b48b2a0a987102db</string>
+</resources>
